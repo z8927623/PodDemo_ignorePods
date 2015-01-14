@@ -1,0 +1,2 @@
+# PodDemo_ignorePods
+PodDemo_ignorePods
